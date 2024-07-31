@@ -3,7 +3,7 @@
 🤔 I’m currently working on 'RockPaperScissorsWIP'
 <br>
 <br>
-🧐 I’m currently learning 
+🧐 I’m currently learning Python
 <br>
 <br>
 
