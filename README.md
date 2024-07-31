@@ -1,4 +1,4 @@
-## Good day! 👋
+## Good day! 👋🦔
 
 <!--
 **mattrich98/mattrich98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
