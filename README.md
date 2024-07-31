@@ -1,5 +1,6 @@
 ## Good day! 👋🦔
 
+![snake gif](https://github.com/mattrich98/mattrich98/blob/output/github-contribution-grid-snake.gif)
 <!--
 **mattrich98/mattrich98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
