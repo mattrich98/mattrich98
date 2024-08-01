@@ -3,7 +3,7 @@
 🤔 I’m currently working on 'RockPaperScissorsWIP'.
 <br>
 <br>
-🧐 Recently I've been learning Python too.
+🧐 Recently I've been learning Python, and the benefits of using AI tools too.
 <br>
 <br>
 
