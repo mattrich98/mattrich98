@@ -1,9 +1,9 @@
 ## Welcome to my GitHub page! 👋😎
 <br>
-🤔 I’m currently working on 'RockPaperScissorsWIP'
+🤔 I’m currently working on 'RockPaperScissorsWIP'.
 <br>
 <br>
-🧐 I’m currently learning Python
+🧐 Recently I've been learning Python too.
 <br>
 <br>
 
