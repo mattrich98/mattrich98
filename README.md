@@ -1,6 +1,6 @@
 ## Welcome to my GitHub page! 👋😎
 <br>
-🤔 I’m currently working on 'RockPaperScissorsWIP', I will continue it again soon.
+🤔 I’m currently working on 'smartautogreenhouse' first, then 'RockPaperScissorsWIP', I will continue those again soon.
 <br>
 <br>
 🧐 Recently I've learnt about Python, and the benefits of using AI tools too.
