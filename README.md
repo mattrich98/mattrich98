@@ -6,6 +6,6 @@
 🧐 Recently I've learnt about Python, and the benefits of using AI tools too.
 <br>
 <br>
-😀 I want to try to upload mostly good commitments every few days so I don't get burnt out.
+😀 I want to try to upload good commitments every few days so I don't get burnt out.
 
 ![snake gif](https://github.com/mattrich98/mattrich98/blob/output/github-contribution-grid-snake.gif)
