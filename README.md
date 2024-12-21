@@ -9,6 +9,12 @@ I also want to get into 'Screeps: World', a JavaScript game. Its fun, so I will 
 <br>
 <br>
 Most of my intial coding experience comes from editing other users scripts on ROBLOX; during highschool days. 
+<br>
+I completed the rock paper scissors project, so I'll draw for the rest of the day. This way I will be in the mood to finish the green house project. 
+<br>
+<br>
+In the future, I plan to make flashplayer-like games, so I will have a whole lot more motivation to finish those. 
+<br>
 <hr>
 <h3>Project ideas:</h3>
 <br>
