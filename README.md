@@ -6,6 +6,8 @@ My motivation goes up and down, since I dedicate a lot of time to digital art. B
 
 I also want to get into 'Screeps: World', a JavaScript game. Its fun, so I will improve while having a good time.
 
+Most of my intial coding experience comes from editing other user scripts on ROBLOX during highschool days. 
+
 <h3>Project ideas:</h3>
 <br>
 <strong>TODO list</strong>
