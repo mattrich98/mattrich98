@@ -8,7 +8,7 @@ My motivation goes up and down, since I dedicate a lot of time to digital art. B
 I also want to get into 'Screeps: World', a JavaScript game. Its fun, so I will improve while having a good time.
 <br>
 <br>
-Most of my intial coding experience comes from editing other users scripts on ROBLOX; during highschool days. 
+Most of my initial coding experience comes from editing other users scripts on ROBLOX; during highschool days. 
 <br>
 <br>
 I completed the rock paper scissors project, so I'll draw for the rest of the day. This way I will be in the mood to finish the green house project. 
