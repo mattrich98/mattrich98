@@ -16,6 +16,9 @@ I completed the rock paper scissors project, so I'll draw for the rest of the da
 <br>
 In the future, I plan to make flashplayer-like games, so I will have a whole lot more motivation to finish those. 
 <br>
+<br>
+Some things I forget, but I kind of know what I want to do. I just google the syntax that fits the plan or idea. 
+<br>
 <hr>
 <h3>Project ideas:</h3>
 <br>
