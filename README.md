@@ -2,7 +2,7 @@
 
 ![snake gif](https://github.com/mattrich98/mattrich98/blob/output/github-contribution-grid-snake.gif)
 
-My motivation goes up and down, since I dedicate a lot of time to digital art. But I try when I can.
+My motivation goes up and down, since I dedicate a lot of time to digital art. But I try when I can. In the future, I would like to make projects that incorporate both areas.
 
 <h3>Project ideas:</h3>
 <br>
