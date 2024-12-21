@@ -4,7 +4,7 @@
 
 My motivation goes up and down, since I dedicate a lot of time to digital art. But I try when I can. In the future, I would like to make projects that incorporate both areas.
 
-I also want to get into 'Screeps: World' a JavaScript game. Its fun, so I will improve while having a good time.
+I also want to get into 'Screeps: World', a JavaScript game. Its fun, so I will improve while having a good time.
 
 <h3>Project ideas:</h3>
 <br>
