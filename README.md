@@ -2,6 +2,8 @@
 
 ![snake gif](https://github.com/mattrich98/mattrich98/blob/output/github-contribution-grid-snake.gif)
 
+My motivation goes up and down, since I dedicate a lot of time to digital art a lot, but I try when I can.
+
 <h3>Project ideas:</h3>
 <br>
 <strong>TODO list</strong>
