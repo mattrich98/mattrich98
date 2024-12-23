@@ -20,6 +20,7 @@ Some things I forget, but I kind of know what I want to do. I just google the sy
 <br>
 <hr>
 <h3>Project Ideas</h3>
+___
 <hr>
 <strong>TODO list</strong>
 <ol>
