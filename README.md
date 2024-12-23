@@ -19,8 +19,8 @@ In the future, I plan to make flashplayer-like games, so I will have a whole lot
 Some things I forget, but I kind of know what I want to do. I just google the syntax that fits the plan or idea. 
 <br>
 <hr>
-<h3>Project ideas:</h3>
-<br>
+<h3>Project Ideas</h3>
+<hr>
 <strong>TODO list</strong>
 <ol>
   <li>save/loading, maybe attaching a file from computer to a website. I think that the TODO list being a website, would be convienent to use</li> 
