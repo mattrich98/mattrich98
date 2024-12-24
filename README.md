@@ -10,13 +10,16 @@ I also want to get into 'Screeps: World', a JavaScript game. Its fun, so I will 
 Most of my initial coding experience comes from editing other users scripts on ROBLOX; during highschool days. 
 <br>
 <br>
-I completed the rock paper scissors project, so I'll draw for the rest of the day. This way I will be in the mood to finish the green house project. 
+I completed the rock paper scissors project, so I'll draw for the rest of the day. This way I will be in the mood to finish the green house project. By the end of this year.
 <br>
 <br>
 In the future, I plan to make flashplayer-like games, so I will have a whole lot more motivation to finish those. 
 <br>
 <br>
 Some things I forget, but I kind of know what I want to do. I just google the syntax that fits the plan or idea. 
+<br>
+<br>
+
 <br>
 <hr>
 <h3>Project Ideas:</h3>
