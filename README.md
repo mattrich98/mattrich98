@@ -7,7 +7,7 @@ I hope to be able to maintain a long contribution streak this year, even if I on
 <hr>
 <h3>Project Ideas:</h3> 
 <ol>
-  <li>Remake Oregon Project pygame in javascript</li>
+  <li>Remake Oregon Project pygame in javascript</li> 
   <li>Interactive TODO list with load/save document feature</li>
   <li>Simple platforming-side scroller game, maybe infinite scroller</li>
   <li>Remake portfolio</li>
