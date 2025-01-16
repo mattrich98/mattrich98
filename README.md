@@ -1,7 +1,7 @@
 ![snake gif](https://github.com/mattrich98/mattrich98/blob/output/github-contribution-grid-snake.gif)
 ### Welcome to my GitHub page! 👋😎
 Once I complete greenhouse project, I will continue with the Odin project again.
-<br>
+<br> 
 <br>
 I hope to be able to maintain a long contribution streak this year, even if I only write/read code for less than an hour a day.
 <hr>
