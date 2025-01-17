@@ -6,7 +6,7 @@ Once I complete greenhouse project, I will continue with the Odin project again.
 I hope to be able to maintain a long contribution streak this year, even if I only write/read code for less than an hour a day.
 <hr>
 <h3>Project Ideas:</h3> 
-<ol> 
+<ol>  
   <li>Remake Oregon Project pygame in javascript</li> 
   <li>Interactive TODO list with load/save document feature</li>
   <li>Simple platforming-side scroller game, maybe infinite scroller</li>
