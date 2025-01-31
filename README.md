@@ -7,7 +7,7 @@ I hope to be active more throughout the year, and to do my best to keep the gith
 <hr>
 <h3>Project Ideas:</h3>  
 <ol>    
-  <li>Remake Oregon Project pygame in javascript</li>  
+  <li>Remake Oregon Project pygame in javascript</li>   
   <li>Interactive TODO list with load/save document feature</li>
   <li>Simple platforming-side scroller game, maybe infinite scroller</li> 
   <li>Remake portfolio</li>
