@@ -4,7 +4,7 @@ Once I complete greenhouse project, I will continue with the Odin project again.
 <br>
 <br>
 I hope to be active more throughout the year, and to do my best to keep the github active days green; I only write/read code for less than an hour a day.
-<hr>
+<hr> 
 <h3>Project Ideas:</h3>   
 <ol>    
   <li>Remake Oregon Project pygame in javascript</li>   
